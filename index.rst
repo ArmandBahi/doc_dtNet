@@ -1,6 +1,6 @@
 
 
-Documentation de dtNet  - Manuel Utilisateur
+Documentation de dtNet 
 ====================================
 
 
